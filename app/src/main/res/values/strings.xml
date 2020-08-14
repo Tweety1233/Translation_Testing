@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name" translatable="false">Translation_Tesing</string>
+    <string name="ukrainian">Ukrainian</string>
+    <string name="english">English</string>
+
+    <string name="hello">Hello\n%s</string>
+
+    <string name="settings_label">Settings</string>
+
+    <string name="activity_1_label">Screen 1</string>
+    <string name="activity_2_label">Screen 2</string>
+    <string name="activity_1_text">Random text 1</string>
+    <string name="activity_2_text">Random text 2</string>
+    <string name="start_service">Start a service</string>
+    <string name="settings_tips">Click for activity restart\nLong click for application restart</string>
+    <string name="permission_camera_rationale">permision</string>
+    <string name="ok">ok</string>
+    <string name="no_camera_permission">no permisiion</string>
+</resources>
